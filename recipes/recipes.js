@@ -1,5 +1,848 @@
 var SEED=[
  {
+  "id": "r1794695520000",
+  "img": "img/tomato-basil-soup-with-broccoli-grilled-cheese.jpg",
+  "ing": [
+   {
+    "q": 2,
+    "t": "pounds fresh plum tomatoes"
+   },
+   {
+    "q": 1,
+    "t": "medium onion, roughly chopped"
+   },
+   {
+    "q": 1,
+    "t": "large carrot, roughly chopped"
+   },
+   {
+    "q": 1,
+    "t": "celery stalk, roughly chopped"
+   },
+   {
+    "q": 3,
+    "t": "garlic cloves"
+   },
+   {
+    "q": 1,
+    "t": "tbsp unsalted butter"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp kosher salt"
+   },
+   {
+    "q": 32,
+    "t": "oz chicken or vegetable broth"
+   },
+   {
+    "q": null,
+    "t": "Rind from a wedge of Pecorino Romano (optional)"
+   },
+   {
+    "q": 3,
+    "t": "sprigs fresh parsley"
+   },
+   {
+    "q": 10,
+    "t": "fresh basil leaves, plus more for garnish"
+   },
+   {
+    "q": 2,
+    "t": "bay leaves"
+   },
+   {
+    "q": 0.25,
+    "t": "cup freshly grated Pecorino Romano, plus more for serving (optional)"
+   },
+   {
+    "q": 5,
+    "t": "oz broccoli florets (about 1 3/4 cups), for the grilled cheese"
+   },
+   {
+    "q": 1,
+    "t": "tsp olive oil"
+   },
+   {
+    "q": 1,
+    "t": "tbsp chopped garlic"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp kosher salt, for the grilled cheese"
+   },
+   {
+    "q": null,
+    "t": "Freshly ground black pepper"
+   },
+   {
+    "q": 2,
+    "t": "tbsp freshly grated Pecorino Romano, for the grilled cheese"
+   },
+   {
+    "q": null,
+    "t": "Pinch of crushed red pepper flakes"
+   },
+   {
+    "q": null,
+    "t": "Olive oil spray"
+   },
+   {
+    "q": 4,
+    "t": "slices Tuscan bread (4 oz total), cut 1/4 inch thick"
+   },
+   {
+    "q": 4,
+    "t": "oz light Havarti cheese, grated"
+   }
+  ],
+  "nut": {
+   "cal": "93",
+   "carb": "11",
+   "fat": "4",
+   "pro": "5"
+  },
+  "servings": 6,
+  "steps": [
+   "Peel the tomatoes: bring a large pot of water to a boil and cut a small X in the bottom of each tomato. Blanch for 1 to 2 minutes, until the skins crack, then move to a colander. Once cool enough to handle, slip off the skins.",
+   "Finely chop the onion, carrot, celery and garlic cloves in a small food processor.",
+   "Melt the butter in a large heavy pot or Dutch oven over medium heat. Add the chopped vegetables and 1/4 tsp salt and cook, stirring often, until soft, 8 to 10 minutes.",
+   "Add the broth, tomatoes and cheese rind, if using. Tie the parsley, basil and bay leaves together with kitchen string or a rubber band and drop them in. Bring to a boil, then cover and simmer for about 30 minutes.",
+   "Remove and discard the herb bundle and cheese rind. Blend with an immersion blender until smooth, then stir in the 1/4 cup grated Pecorino.",
+   "Broccoli grilled cheese (makes 2): Steam the broccoli with a splash of water in a microwave-safe bowl until crisp-tender, about 2 minutes, then finely chop.",
+   "Heat the olive oil in a medium skillet over medium-high heat. Sauté the chopped garlic until soft, about 1 minute. Add the broccoli, 1/4 tsp salt and pepper to taste and cook, stirring, about 2 minutes. Off the heat, stir in the 2 tbsp Pecorino and the pepper flakes.",
+   "Spray one side of each bread slice with oil. Heat a large nonstick skillet over medium-low heat. Lay 2 slices oil side down, top each with 1 oz Havarti, half the broccoli and another 1 oz Havarti, then close with the other 2 slices, oil side up.",
+   "Cook until the bottom is golden, 4 to 5 minutes, then carefully flip with a spatula and cook until the other side is golden, 3 to 4 minutes. Cut in half on an angle.",
+   "Serve now: Ladle 2 bowls of soup, top with more grated Pecorino if you like and serve each with a sandwich. Each sandwich adds about 365 calories, 25 g protein, 35 g carbs and 20 g fat.",
+   "Freeze and serve later: Freeze the remaining soup in 1 1/4-cup portions. Thaw overnight in the fridge or reheat from frozen in the microwave. Make a fresh grilled cheese while the soup reheats if you like.",
+   "Freezer kit: Peel the tomatoes and cook the vegetables as above, then combine with everything for the soup except the broth and freeze in containers or gallon zip-top bags. To cook, add to a pot with the broth and continue from step 4."
+  ],
+  "storage": "Fridge, up to 4 days. Freezer, up to 3 months (finished soup or freezer kit).",
+  "tags": [
+   "vegetarian",
+   "gluten free",
+   "freezer friendly"
+  ],
+  "title": "Tomato Basil Soup with Broccoli Grilled Cheese",
+  "ts": 1794695520000
+ },
+ {
+  "id": "r1794691500000",
+  "img": "img/slow-cooker-coconut-red-curry-butternut-soup.jpg",
+  "ing": [
+   {
+    "q": 2,
+    "t": "pounds butternut squash (1 small)"
+   },
+   {
+    "q": 2,
+    "t": "large shallots, quartered"
+   },
+   {
+    "q": 0.5,
+    "t": "oz fresh ginger, peeled (1-inch piece)"
+   },
+   {
+    "q": 2,
+    "t": "tbsp Thai red curry paste"
+   },
+   {
+    "q": 2,
+    "t": "cups chicken or vegetable broth"
+   },
+   {
+    "q": 0.5,
+    "t": "cup canned full-fat coconut milk, plus more for drizzling"
+   },
+   {
+    "q": null,
+    "t": "Chopped fresh cilantro, for garnish"
+   },
+   {
+    "q": null,
+    "t": "Lime wedges, for serving"
+   }
+  ],
+  "nut": {
+   "cal": "195",
+   "carb": "35",
+   "fat": "6.5",
+   "pro": "5"
+  },
+  "servings": 4,
+  "steps": [
+   "Halve the squash and scoop out the seeds. Put it cut side down in the slow cooker with the shallots, ginger and curry paste.",
+   "Pour in the broth. Cook on high for 4 to 5 hours or on low for 8 to 9 hours, until a knife slides easily into the squash.",
+   "Lift out the squash, scoop the flesh back into the slow cooker and discard the skin. Stir in the coconut milk.",
+   "Blend until smooth with an immersion blender. If you use a regular blender, let the soup cool first and only fill it halfway.",
+   "Serve now: Divide among 4 bowls, drizzle with a little more coconut milk, top with cilantro and serve with lime wedges.",
+   "Freeze and serve later: Portion into airtight containers. Thaw overnight in the fridge, then reheat on the stove or in the microwave.",
+   "Freezer kit: Bag the prepped squash with the shallots, ginger and curry paste, label and freeze for up to 3 months. Thaw overnight in the fridge, then put everything in the slow cooker and continue from step 2."
+  ],
+  "storage": "Fridge, up to 5 days. Freezer, up to 3 months.",
+  "tags": [
+   "vegetarian",
+   "gluten free",
+   "dairy free",
+   "freezer friendly",
+   "slow cooker"
+  ],
+  "title": "Slow Cooker Coconut Red Curry Butternut Soup",
+  "ts": 1794691500000
+ },
+ {
+  "id": "r1794677760000",
+  "img": "img/quinoa-bowls-with-roasted-portobello-air-fried-tof.jpg",
+  "ing": [
+   {
+    "q": 1.5,
+    "t": "cups quinoa, rinsed"
+   },
+   {
+    "q": 3,
+    "t": "cups water or broth"
+   },
+   {
+    "q": null,
+    "t": "Pinch of salt (for quinoa)"
+   },
+   {
+    "q": 4,
+    "t": "large portobello caps, sliced 1/2 inch thick"
+   },
+   {
+    "q": 2,
+    "t": "tbsp olive oil"
+   },
+   {
+    "q": 1,
+    "t": "tbsp soy sauce (for mushrooms)"
+   },
+   {
+    "q": 1,
+    "t": "garlic clove, minced"
+   },
+   {
+    "q": null,
+    "t": "Salt and pepper"
+   },
+   {
+    "q": 14,
+    "t": "oz extra-firm tofu (1 block)"
+   },
+   {
+    "q": 1,
+    "t": "tbsp soy sauce (for tofu)"
+   },
+   {
+    "q": 1,
+    "t": "tbsp oil"
+   },
+   {
+    "q": 1,
+    "t": "tbsp cornstarch"
+   },
+   {
+    "q": 0.3333333333333333,
+    "t": "cup tahini"
+   },
+   {
+    "q": null,
+    "t": "Juice of 1 lemon"
+   },
+   {
+    "q": 1,
+    "t": "small garlic clove, grated"
+   },
+   {
+    "q": null,
+    "t": "Pinch of salt (for dressing)"
+   },
+   {
+    "q": 3,
+    "t": "to 5 tbsp warm water"
+   },
+   {
+    "q": null,
+    "t": "Optional toppings: chopped parsley, sesame seeds, spinach or cucumber"
+   }
+  ],
+  "nut": {
+   "cal": "585",
+   "carb": "54",
+   "fat": "31",
+   "pro": "26"
+  },
+  "servings": 4,
+  "steps": [
+   "Press the tofu for 15 minutes. Meanwhile, heat the oven to 425 °F.",
+   "Combine quinoa, water or broth and salt in a pot. Bring to a boil, cover, and simmer 15 minutes. Rest 5 minutes covered, then fluff.",
+   "Toss mushroom slices with olive oil, soy sauce, garlic, salt and pepper. Roast 15 to 20 minutes, flipping halfway.",
+   "Cube the tofu and toss with soy sauce, oil and cornstarch. Air fry at 400 °F for 12 to 15 minutes, shaking halfway, until crisp.",
+   "Whisk tahini, lemon juice, garlic and salt, adding warm water until pourable.",
+   "Divide quinoa among 4 bowls, top with mushrooms and tofu, drizzle with dressing, and add toppings."
+  ],
+  "storage": "",
+  "tags": [
+   "vegetarian",
+   "air fryer",
+   "dinner"
+  ],
+  "title": "Quinoa Bowls with Roasted Portobello, Air Fried Tofu and Tahini Dressing",
+  "ts": 1794677760000
+ },
+ {
+  "id": "r1794006518293",
+  "img": "img/tuna-egg-salad.jpg",
+  "ing": [
+   {
+    "q": 8,
+    "t": "hard boiled eggs"
+   },
+   {
+    "q": 4,
+    "t": "packets (2.6 oz each) light tuna in water (I use less sodium)"
+   },
+   {
+    "q": 4,
+    "t": "tbsp mayonnaise (check labels for Whole30)"
+   },
+   {
+    "q": 8,
+    "t": "tbsp chopped red onion"
+   },
+   {
+    "q": null,
+    "t": "Salt and pepper, to taste"
+   }
+  ],
+  "nut": {
+   "cal": "316",
+   "carb": "4",
+   "fat": "20",
+   "pro": "30"
+  },
+  "servings": 4,
+  "steps": [
+   "Chop the eggs and add them to a bowl with the tuna, mayo, and red onion.",
+   "Mix to combine and season with salt and pepper to taste.",
+   "Eat right out of the bowl with a spoon, or piled on a piece of toast, in a wrap, over greens, etc."
+  ],
+  "storage": "",
+  "tags": [
+   "high protein",
+   "lunch",
+   "quick",
+   "no cook"
+  ],
+  "title": "Tuna Egg Salad",
+  "ts": 1794006518293
+ },
+ {
+  "id": "r1793996683965",
+  "img": "img/freezer-to-instant-pot-cream-of-chicken-and-wild-r.jpg",
+  "ing": [
+   {
+    "q": 2,
+    "t": "cups sliced shiitake mushrooms (about 4 oz)"
+   },
+   {
+    "q": 1,
+    "t": "cup chopped celery"
+   },
+   {
+    "q": 1,
+    "t": "cup chopped carrots"
+   },
+   {
+    "q": 0.25,
+    "t": "cup chopped shallots"
+   },
+   {
+    "q": 2,
+    "t": "tbsp chopped fresh parsley"
+   },
+   {
+    "q": 1,
+    "t": "pound boneless, skinless chicken breasts"
+   },
+   {
+    "q": 6,
+    "t": "oz uncooked wild rice"
+   },
+   {
+    "q": 1.5,
+    "t": "tsp fresh thyme leaves"
+   },
+   {
+    "q": 2,
+    "t": "bay leaves"
+   },
+   {
+    "q": 0.25,
+    "t": "cup all-purpose flour (add later)"
+   },
+   {
+    "q": 2,
+    "t": "tbsp chicken bouillon (like Better Than Bouillon; check label for gluten free) (add later)"
+   },
+   {
+    "q": 0.5,
+    "t": "cup reduced-fat sour cream (add later)"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp kosher salt (add later)"
+   }
+  ],
+  "nut": {
+   "cal": "282",
+   "carb": "32",
+   "fat": "5.5",
+   "pro": "24"
+  },
+  "servings": 6,
+  "steps": [
+   "Prep ahead and freeze: Add the mushrooms, celery, carrots, shallots, and parsley to a gallon-size zip-top bag or freezer-safe container (make sure it fits in your Instant Pot so you don't have to thaw it), along with the chicken, rice, thyme, and bay leaves. Label with the remaining ingredients you'll need later (flour, bouillon, sour cream, and salt). Freeze.",
+   "When ready to cook, remove from the freezer and add the frozen ingredients to the Instant Pot with 5 cups water.",
+   "In a small bowl, whisk the flour into an additional 1 cup water. Add to the pot along with the bouillon.",
+   "Cover and cook on high pressure for 25 minutes. Natural release.",
+   "Remove the chicken and discard the bay leaves. Shred the chicken with two forks and return it to the pot. Stir in the sour cream and salt.",
+   "Serve now: Divide the soup among 6 bowls (1½ cups each) and eat right away.",
+   "No Instant Pot? Make it in a Dutch oven with an additional ¼ cup water. Simmer on low heat 45 to 55 minutes, until the wild rice is tender.",
+   "Tip: Add broth or water to loosen the soup when reheating if it's too thick."
+  ],
+  "storage": "Fridge, up to 4 days (add broth or water to loosen when reheating if too thick). Freezer: freeze the uncooked prepped ingredients up to 6 months.",
+  "tags": [
+   "gluten free",
+   "freezer friendly",
+   "Instant Pot",
+   "dinner"
+  ],
+  "title": "Freezer-to-Instant-Pot Cream of Chicken and Wild Rice Soup",
+  "ts": 1793996683965
+ },
+ {
+  "id": "r1793996459500",
+  "img": "img/roasted-vegetable-lasagna.jpg",
+  "ing": [
+   {
+    "q": null,
+    "t": "Olive oil spray"
+   },
+   {
+    "q": 1,
+    "t": "red bell pepper, seeded and cut into ½-inch pieces"
+   },
+   {
+    "q": 1,
+    "t": "yellow bell pepper, seeded and cut into ½-inch pieces"
+   },
+   {
+    "q": 1,
+    "t": "large (12-oz) zucchini, cut into ¼-inch-thick rounds"
+   },
+   {
+    "q": 4,
+    "t": "oz sliced mushrooms"
+   },
+   {
+    "q": 1,
+    "t": "medium (8-oz) fennel bulb, stalks and fronds removed, cut into ½-inch pieces"
+   },
+   {
+    "q": 1,
+    "t": "medium red onion, sliced into ½-inch pieces"
+   },
+   {
+    "q": 6,
+    "t": "garlic cloves, smashed lightly"
+   },
+   {
+    "q": 1,
+    "t": "tbsp balsamic vinegar"
+   },
+   {
+    "q": 1,
+    "t": "tbsp extra-virgin olive oil"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp dried oregano"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp dried basil"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp kosher salt"
+   },
+   {
+    "q": null,
+    "t": "Freshly ground black pepper"
+   },
+   {
+    "q": 1,
+    "t": "container (15 oz) part-skim ricotta cheese"
+   },
+   {
+    "q": 0.5,
+    "t": "cup freshly grated Pecorino Romano or Parmesan cheese"
+   },
+   {
+    "q": 0.25,
+    "t": "cup chopped fresh basil, plus more for garnish"
+   },
+   {
+    "q": 5,
+    "t": "cups Basil Pomodoro Sauce or store-bought marinara sauce"
+   },
+   {
+    "q": 1,
+    "t": "box (9 oz) no-boil lasagna noodles"
+   },
+   {
+    "q": 3,
+    "t": "cups shredded part-skim mozzarella cheese"
+   }
+  ],
+  "nut": {
+   "cal": "453",
+   "carb": "46",
+   "fat": "18.5",
+   "pro": "28"
+  },
+  "servings": 8,
+  "steps": [
+   "Adjust the oven racks to the center and bottom positions. Preheat the oven to 450°F and spray two large baking sheets with oil.",
+   "Place the bell peppers, zucchini, mushrooms, fennel, onion, and garlic on the sheets and toss with the balsamic vinegar, olive oil, oregano, dried basil, salt, and black pepper to taste. Roast on the lower rack, stirring halfway through, until tender and slightly browned, 30 to 35 minutes. Remove the vegetables and reduce the oven temperature to 400°F.",
+   "In a medium bowl, combine the ricotta, Pecorino, and fresh basil.",
+   "In a 9 × 13 × 3-inch freezer-to-ovenproof baking dish, spread ½ cup marinara on the bottom. Arrange 3 lasagna noodles across the dish (they will expand as they cook) and top with ¾ cup sauce, one-fourth of the roasted vegetables, one-fourth of the ricotta mixture, and ½ cup mozzarella. Repeat 3 more times, starting with the pasta. Arrange the last 3 noodles on top and spread with the remaining sauce.",
+   "Cover with foil and bake on the center rack until cooked through in the center, about 45 minutes. Uncover and cook until bubbling and hot, about 10 minutes more. Add the remaining mozzarella and bake until melted, about 5 minutes. Let rest for 15 minutes, then cut into 8 slices and serve.",
+   "Refrigerate and serve later: Tightly wrap the assembled, unbaked lasagna in foil and refrigerate up to 24 hours before baking. Follow the directions above, adding an extra 10 minutes to the initial bake time since it will be cold.",
+   "Freeze and serve later: Bake as directed and let cool completely. Tightly wrap with foil, or cut into portions and freeze in separate airtight containers. To reheat, thaw in the refrigerator at least 24 to 48 hours, then reheat in a 375°F oven until heated through, 1 hour to 1 hour 15 minutes.",
+   "Tip: Use a deep baking dish. Doubling the recipe and freezing the second batch is a great idea; it can also be baked uncooked straight from the freezer, as long as the dish is freezer-to-ovenproof."
+  ],
+  "storage": "Fridge, up to 24 hours before baking, up to 4 days once cooked. Freezer, up to 3 months after baking.",
+  "tags": [
+   "vegetarian",
+   "freezer friendly",
+   "dinner"
+  ],
+  "title": "Roasted Vegetable Lasagna",
+  "ts": 1793996459500
+ },
+ {
+  "id": "r1793996320138",
+  "img": "img/torta-pasqualina-spinach-pie.jpg",
+  "ing": [
+   {
+    "q": 0.5,
+    "t": "tbsp olive oil"
+   },
+   {
+    "q": 1,
+    "t": "large onion, diced"
+   },
+   {
+    "q": 3,
+    "t": "garlic cloves, chopped"
+   },
+   {
+    "q": 11,
+    "t": "oz fresh baby spinach"
+   },
+   {
+    "q": 1.25,
+    "t": "tsp kosher salt"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp crushed red pepper flakes"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp freshly ground black pepper"
+   },
+   {
+    "q": 6,
+    "t": "large eggs"
+   },
+   {
+    "q": 0.5,
+    "t": "cup part-skim ricotta cheese"
+   },
+   {
+    "q": 0.25,
+    "t": "cup freshly grated Parmesan cheese"
+   },
+   {
+    "q": 0.25,
+    "t": "cup shredded part-skim mozzarella cheese"
+   },
+   {
+    "q": 1,
+    "t": "sheet (8 oz, ½ package) frozen puff pastry, thawed (gluten-free for GF)"
+   },
+   {
+    "q": null,
+    "t": "All-purpose flour, for dusting (gluten-free for GF)"
+   },
+   {
+    "q": 1,
+    "t": "tbsp fat-free milk"
+   }
+  ],
+  "nut": {
+   "cal": "371",
+   "carb": "24",
+   "fat": "24",
+   "pro": "16"
+  },
+  "servings": 6,
+  "steps": [
+   "Make the filling: Heat the oil in a large, deep skillet over medium heat. Add the onion and cook about 5 minutes, until soft. Add the garlic and cook 2 minutes more, until fragrant. Add the spinach, salt, pepper flakes, and black pepper and cook, stirring frequently, 4 to 5 minutes, until the spinach is wilted. Remove from the heat. Once cooled, transfer the spinach mixture to a mixing bowl.",
+   "Preheat the oven to 375°F.",
+   "In a small bowl, whisk 2 of the eggs. Once the spinach is cool, add the 2 beaten eggs, ricotta, Parmesan, and mozzarella, and mix well.",
+   "Make the crust: You'll need a standard 9-inch pie plate about 1½ inches deep. Lay the puff pastry sheet on a lightly floured surface and roll it out slightly so it's larger than the top of the pie plate. Use the plate upside down as a stencil and cut around it to make a circle. Set the rest of the dough aside.",
+   "Lay the pastry circle in the pie plate, with the dough coming up the sides to the top edges.",
+   "Put half the spinach mixture into the pie plate. Make four large wells in the spinach, one in each quarter of the pie, and gently crack one of the remaining eggs into each well. Carefully top with the remaining spinach by hand, taking care not to break the yolks.",
+   "Roll out the remaining dough and cut it into long strips. Lay them across the top in a crisscross pattern (about four rows in each direction). Brush the milk over the top of the crust.",
+   "Bake about 50 minutes, until the crust is golden. Serve hot or at room temperature.",
+   "Freeze and serve later: Wrap the cooked pie tightly in plastic wrap, then foil, and freeze. To reheat, thaw in the refrigerator overnight, uncover, and microwave in 30-second intervals until heated through.",
+   "Meal prep: Cut the pie into individual servings, transfer to meal prep containers, and refrigerate. Reheat in the microwave.",
+   "Tip: A slice is pretty filling thanks to the eggs and cheese. Serve with a small green salad if you like."
+  ],
+  "storage": "Fridge, up to 4 days. Freezer, up to 4 months.",
+  "tags": [
+   "vegetarian",
+   "freezer friendly",
+   "dinner"
+  ],
+  "title": "Torta Pasqualina (Spinach Pie)",
+  "ts": 1793996320138
+ },
+ {
+  "id": "r1793996133862",
+  "img": "img/chili-lime-chicken-and-black-bean-cauli-bowls.jpg",
+  "ing": [
+   {
+    "q": 1.5,
+    "t": "pounds boneless, skinless chicken thighs (about 4 large), fat trimmed"
+   },
+   {
+    "q": 1.5,
+    "t": "tsp chili-lime seasoning salt (like Tajín Clásico)"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp smoked paprika"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp ground cumin"
+   },
+   {
+    "q": 1,
+    "t": "tsp olive oil (for the chicken)"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp kosher salt (for the chicken)"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp dried oregano"
+   },
+   {
+    "q": null,
+    "t": "Olive oil spray"
+   },
+   {
+    "q": 1,
+    "t": "tsp olive oil (for the beans)"
+   },
+   {
+    "q": 0.5,
+    "t": "cup minced poblano pepper"
+   },
+   {
+    "q": 0.33,
+    "t": "cup minced onion"
+   },
+   {
+    "q": 0.25,
+    "t": "cup chopped fresh cilantro (for the beans)"
+   },
+   {
+    "q": 2,
+    "t": "garlic cloves, minced"
+   },
+   {
+    "q": 1,
+    "t": "can low-sodium black beans (15 oz), undrained"
+   },
+   {
+    "q": 0.25,
+    "t": "cup canned tomato sauce"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp kosher salt (for the beans)"
+   },
+   {
+    "q": 3,
+    "t": "cups frozen cauliflower rice, prepared as directed"
+   },
+   {
+    "q": 2,
+    "t": "tsp fresh lime juice"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp kosher salt (for the cauliflower rice)"
+   },
+   {
+    "q": 0.25,
+    "t": "cup chopped fresh cilantro (for the cauliflower rice)"
+   },
+   {
+    "q": null,
+    "t": "Lime wedges, for serving"
+   },
+   {
+    "q": 1,
+    "t": "cup halved cherry tomatoes, for serving"
+   },
+   {
+    "q": 1,
+    "t": "small Hass avocado (4 oz), for serving"
+   }
+  ],
+  "nut": {
+   "cal": "414",
+   "carb": "30",
+   "fat": "13.5",
+   "pro": "42"
+  },
+  "servings": 4,
+  "steps": [
+   "Prepare the chicken: Season the chicken with the chili-lime seasoning, garlic powder, paprika, cumin, oil, salt, and oregano. Set aside.",
+   "Prepare the beans: Heat the oil in a medium skillet over medium heat. Add the poblano pepper, onion, cilantro, and garlic and cook until soft, about 3 minutes. Add the beans (including the liquid), tomato sauce, 2 tablespoons water, and salt. Cover and cook over medium-low heat to let the flavors meld, about 5 minutes. Set aside.",
+   "Heat a large nonstick griddle or skillet over medium-high heat and spray with oil. When hot, add the chicken and cook until the bottom is completely browned before flipping, about 5 minutes. Cook on the other side until browned, 4 to 5 minutes. Reduce the heat to low and let the chicken continue cooking, 12 to 14 minutes, until cooked through in the thickest parts. Set aside on a cutting board and tent with foil for 5 to 10 minutes, then slice into thin strips.",
+   "Combine the cauliflower rice with the lime juice, salt, and cilantro.",
+   "Serve now: Divide the cauliflower rice among 4 bowls (¾ cup each) and add ½ cup black beans and the chicken. Serve with the lime wedges, tomatoes, and sliced avocado. Squeeze lime over everything before eating.",
+   "Meal prep: Divide the cauliflower rice among 4 meal prep containers (¾ cup each) and add ½ cup black beans and one-fourth of the chicken. Keep the lime wedges, tomatoes, and avocado separate from the items to be reheated. Squeeze lime juice over everything before eating.",
+   "Tip: Tajín is a chili-lime seasoning salt available in most supermarkets. It's also great sprinkled over grilled corn, guacamole, mango, or edamame."
+  ],
+  "storage": "Fridge, up to 4 days. Freezer, up to 3 months; thaw overnight in the refrigerator before reheating.",
+  "tags": [
+   "gluten free",
+   "dairy free",
+   "freezer friendly",
+   "quick",
+   "dinner"
+  ],
+  "title": "Chili-Lime Chicken and Black Bean Cauli-Bowls",
+  "ts": 1793996133862
+ },
+ {
+  "id": "r1793995588006",
+  "img": "img/black-bean-and-butternut-enchilada-bake.jpg",
+  "ing": [
+   {
+    "q": 1,
+    "t": "tsp olive oil"
+   },
+   {
+    "q": 1,
+    "t": "small onion, chopped"
+   },
+   {
+    "q": 2,
+    "t": "fresh jalapeño peppers, 1 chopped, 1 thinly sliced for topping"
+   },
+   {
+    "q": 3,
+    "t": "garlic cloves, finely minced"
+   },
+   {
+    "q": 4,
+    "t": "cups cubed (fresh or frozen) butternut squash, ½-inch dice"
+   },
+   {
+    "q": 1,
+    "t": "can low-sodium black beans (15 oz), rinsed and drained"
+   },
+   {
+    "q": 0.25,
+    "t": "cup chopped fresh cilantro, plus more for serving"
+   },
+   {
+    "q": 1,
+    "t": "tsp ground cumin"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp chili powder"
+   },
+   {
+    "q": 1,
+    "t": "tsp kosher salt"
+   },
+   {
+    "q": 2,
+    "t": "cups enchilada sauce (16 oz; homemade recipe in the steps, or use jarred)"
+   },
+   {
+    "q": 0.25,
+    "t": "cup sour cream, plus more for serving (optional)"
+   },
+   {
+    "q": 6,
+    "t": "corn tortillas, torn into quarters"
+   },
+   {
+    "q": 1,
+    "t": "cup shredded cheese (4 oz), such as Mexican blend or Monterey Jack"
+   },
+   {
+    "q": 1,
+    "t": "medium Hass avocado (5 oz), sliced, for topping"
+   }
+  ],
+  "nut": {
+   "cal": "326",
+   "carb": "43",
+   "fat": "13",
+   "pro": "13"
+  },
+  "servings": 6,
+  "steps": [
+   "Preheat the oven to 500°F. Heat the oil in a large, deep nonstick skillet over medium heat.",
+   "Add the onion, chopped jalapeño, and garlic and cook, stirring frequently, until the onion has softened, about 5 minutes.",
+   "Add the butternut squash, black beans, ½ cup water, the cilantro, cumin, chili powder, and salt. Cover and cook over medium-low heat, stirring occasionally, until the squash is tender, about 20 minutes.",
+   "Add the enchilada sauce, sour cream, and ¼ cup water and stir. Fold in the tortillas and mix well until thoroughly coated. Cook over medium heat until warmed through, about 3 minutes, then transfer to a 9 × 12-inch baking dish. Sprinkle the cheese all over the top and cover with foil.",
+   "Serve now: Bake, covered, in the center of the oven until hot and the cheese is melted and bubbling, about 10 minutes. Let cool slightly, then top with avocado, sour cream, jalapeño slices, and cilantro. Cut into 6 slices.",
+   "Freeze and serve later: Assemble the casserole in a freezer-to-ovenproof or foil baking dish and let the ingredients cool. Sprinkle the cheese over the top, cover tightly, and freeze. For best results, thaw the casserole, then bake, covered with foil, in a 350°F oven until heated through, 25 to 30 minutes.",
+   "Homemade enchilada sauce (makes about 4 cups): Heat ½ tsp olive oil in a saucepan and sauté 4 minced garlic cloves. Add 1½ cups reduced-sodium chicken broth, 3 cups tomato sauce, 3 tbsp chopped chipotle peppers in adobo with sauce, 1 tsp each Mexican hot chili powder and ground cumin, ¼ tsp kosher salt, and black pepper to taste. Bring to a boil, then reduce the heat to low and simmer, uncovered, 7 to 10 minutes. Freeze whatever you don't use for another night."
+  ],
+  "storage": "Fridge, up to 4 days. Freezer, up to 6 months.",
+  "tags": [
+   "vegetarian",
+   "gluten free",
+   "freezer friendly",
+   "dinner"
+  ],
+  "title": "Black Bean and Butternut Enchilada Bake",
+  "ts": 1793995588006
+ },
+ {
   "id": "r1793494445712",
   "img": "img/greek-yogurt-raspberry-loaf.jpg",
   "ing": [

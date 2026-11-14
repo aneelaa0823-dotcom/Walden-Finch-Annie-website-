@@ -63,6 +63,7 @@ ul.ing input{width:auto}
 .home{display:inline-block;color:var(--mute);font-size:.9rem;text-decoration:none;margin-bottom:4px}
 .home:hover{color:var(--acc)}
 :focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+body.visitor [onclick*="go('new')"],body.visitor [onclick*='go("edit"'],body.visitor [onclick="del()"],body.visitor [onclick*="impf"],body.visitor [onclick*="exportRecipes"],body.visitor [onclick*='go("sync")'],body.visitor .owner-note{display:none!important}
 </style></head><body><main id="app"></main>
 <script src="recipes.js"></script>
 <script>
@@ -86,7 +87,7 @@ function tw(id){var i=S.plan.indexOf(id);if(i>-1)S.plan.splice(i,1);else S.plan.
 function match(r){return r.title.toLowerCase().indexOf(q.toLowerCase())>-1&&(!tg||r.tags.indexOf(tg)>-1)}
 function list(){var tags=[];S.R.forEach(function(r){r.tags.forEach(function(t){if(tags.indexOf(t)<0)tags.push(t)})});
 var ch=tags.length?'<div class="chips">'+tags.map(function(t){return'<button class="chip" aria-pressed="'+(tg===t)+'" onclick="tg=tg===\''+esc(t)+'\'?\'\':\''+esc(t)+'\';draw()">'+esc(t)+'</button>'}).join("")+'</div>':"";
-return nav()+'<h1>Recipe Box</h1><div class="stack"><input id="q" type="search" placeholder="Search recipes" aria-label="Search recipes" value="'+esc(q)+'" oninput="q=this.value;keep()"><button class="btn wide" onclick="go(\'new\')">Add recipe</button></div>'+ch+'<div id="l">'+items()+'</div><p class="mute">Saved on this device. Open the menu (&#9776;) at the top right to sync with your other devices, or to import or export recipes.</p>'}
+return nav()+'<h1>Recipe Box</h1><div class="stack"><input id="q" type="search" placeholder="Search recipes" aria-label="Search recipes" value="'+esc(q)+'" oninput="q=this.value;keep()"><button class="btn wide" onclick="go(\'new\')">Add recipe</button></div>'+ch+'<div id="l">'+items()+'</div><p class="mute owner-note">Saved on this device. Open the menu (&#9776;) at the top right to sync with your other devices, or to import or export recipes.</p>'}
 function items(){var f=S.R.filter(match);if(!f.length)return'<p class="mute">'+(q||tg?"No recipes match.":"No recipes yet. Add your first one.")+'</p>';
 return f.map(function(r){var on=S.plan.indexOf(r.id)>-1;return'<div class="item">'+(r.img?'<img src="'+r.img+'" alt="">':"")+'<button class="open" onclick="go(\'view\',\''+r.id+'\')"><b>'+esc(r.title)+'</b>'+badges(r.tags)+'</button><button class="pill" aria-pressed="'+on+'" onclick="tw(\''+r.id+'\')">'+(on?"In this week":"Add to week")+'</button></div>'}).join("")}
 var BADGE={"quick":["Q","#d39a2c"],"vegetarian":["V","#1e6b5c"],"gluten free":["GF","#e2554f"],"dairy free":["DF","#5a3f78"],"freezer friendly":["FF","#3a8fc4"],"instant pot":["IP","#9a9a1f"],"slow cooker":["SC","#26408b"],"air fryer":["AF","#b04aa8"]};
@@ -167,4 +168,4 @@ box.innerHTML=m.map(function(t){return'<button type="button" class="sg" onmoused
 function hideSug(f){var b=document.getElementById("tsug");if(b&&(f===1||!(document.activeElement&&document.activeElement.id==="g")))b.innerHTML=""}
 function pickTag(t){var e=document.getElementById("g"),p=e.value.split(",");p.pop();p=p.map(function(x){return x.trim()}).filter(Boolean);p.push(t);e.value=p.join(", ")+", ";e.focus();sd();sugg()}
 load();S.shop=S.shop||{};shop=S.shop;draw();restore();
-</script><script src="sync.js?v=5"></script></body></html>
+</script><script src="sync.js?v=6"></script><script src="publish.js?v=1"></script></body></html>

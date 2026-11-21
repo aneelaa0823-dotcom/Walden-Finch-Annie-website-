@@ -1,5 +1,105 @@
 var SEED=[
  {
+  "id": "r1795294666183",
+  "title": "Shrimp Tostadas with Guacamole & Pico de Gallo",
+  "servings": 2,
+  "tags": [
+   "gluten free",
+   "dairy free",
+   "high protein",
+   "dinner"
+  ],
+  "img": "img/shrimp-tostadas-guacamole-pico.jpg",
+  "ing": [
+   {
+    "q": 0.75,
+    "t": "lb raw peeled shrimp, fresh or frozen"
+   },
+   {
+    "q": 6,
+    "t": "small corn tortillas"
+   },
+   {
+    "q": 1,
+    "t": "tbsp extra virgin olive oil, divided"
+   },
+   {
+    "q": 1.25,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.375,
+    "t": "tsp black pepper, divided"
+   },
+   {
+    "q": 1,
+    "t": "tsp chili powder"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp ground cumin"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp dried oregano"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp onion powder"
+   },
+   {
+    "q": 1,
+    "t": "avocado"
+   },
+   {
+    "q": 1,
+    "t": "garlic clove"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch cilantro"
+   },
+   {
+    "q": 0.5,
+    "t": "lime"
+   },
+   {
+    "q": 1,
+    "t": "shallot"
+   },
+   {
+    "q": 2,
+    "t": "tomatoes"
+   },
+   {
+    "q": 0.5,
+    "t": "jalapeño pepper"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 400°F. If the shrimp are frozen, rinse them in a colander under cold water until thawed, then drain.",
+   "Brush both sides of the tortillas with 2 tsp oil, sprinkle with 1/4 tsp salt, and bake on a sheet pan 10 to 15 minutes, flipping halfway, until crisp and lightly browned.",
+   "In a medium bowl, mix the chili powder, cumin, oregano, garlic powder, onion powder, 1/2 tsp salt, 1/8 tsp pepper and 1 tsp oil. Toss the shrimp in it.",
+   "For the guacamole, mince the garlic into a bowl and add the avocado flesh. Mince the cilantro leaves; add half to the avocado and save half for the pico.",
+   "Squeeze in the lime juice, add 1/4 tsp salt and 1/8 tsp pepper, and mash until smooth.",
+   "For the pico, dice the shallot and tomatoes and add to the reserved cilantro. Seed and finely dice the jalapeño and add it. Season with 1/4 tsp salt and 1/8 tsp pepper and stir.",
+   "Heat a skillet over medium-high heat and cook the shrimp until opaque, 1 to 2 minutes per side.",
+   "Top the tortillas with guacamole, shrimp and pico de gallo."
+  ],
+  "nut": {
+   "cal": "554",
+   "pro": "32",
+   "carb": "39",
+   "fat": "26"
+  },
+  "storage": "",
+  "ts": 1795294666183
+ },
+ {
   "id": "r1795294605496",
   "title": "Cheddar Crusted Chicken with Mashed Sweet Potatoes & Roasted Broccoli",
   "servings": 2,

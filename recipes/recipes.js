@@ -1,5 +1,101 @@
 var SEED=[
  {
+  "id": "r1795294211067",
+  "title": "Smoked Salmon Bowl with Ginger Rice, Edamame, Mango & Avocado",
+  "servings": 2,
+  "tags": [
+   "high protein",
+   "dinner"
+  ],
+  "img": "img/smoked-salmon-bowl-with-ginger-rice.jpg",
+  "ing": [
+   {
+    "q": 0.5,
+    "t": "cup jasmine rice"
+   },
+   {
+    "q": 1,
+    "t": "cup water"
+   },
+   {
+    "q": 1,
+    "t": "inch piece ginger root"
+   },
+   {
+    "q": 0.375,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.75,
+    "t": "cup shelled edamame"
+   },
+   {
+    "q": 0.5,
+    "t": "English cucumber"
+   },
+   {
+    "q": 0.5,
+    "t": "bunch radishes"
+   },
+   {
+    "q": 1,
+    "t": "tbsp rice vinegar"
+   },
+   {
+    "q": 1,
+    "t": "tsp sesame seeds"
+   },
+   {
+    "q": 1,
+    "t": "tsp brown sugar"
+   },
+   {
+    "q": 0.5,
+    "t": "mango"
+   },
+   {
+    "q": 1,
+    "t": "avocado"
+   },
+   {
+    "q": 2,
+    "t": "tbsp mayonnaise"
+   },
+   {
+    "q": 1,
+    "t": "tsp chili-garlic sauce"
+   },
+   {
+    "q": 4,
+    "t": "oz smoked salmon"
+   },
+   {
+    "q": 2,
+    "t": "tsp soy sauce"
+   }
+  ],
+  "steps": [
+   "Wash and dry the produce. Peel and grate or mince the ginger.",
+   "Rinse the rice in a colander under cold water and drain. Put it in a small saucepan with the ginger, 1 cup water and 1/4 tsp salt, and bring to a boil over high heat.",
+   "Stir, cover, and turn the heat to low. Cook until the water is absorbed, 15 to 18 minutes. Take off the heat and let stand, covered, 5 minutes.",
+   "Meanwhile, rinse the edamame under hot tap water to defrost, then let drain.",
+   "In a medium bowl, whisk the rice vinegar, sesame seeds, brown sugar and remaining 1/8 tsp salt until the sugar dissolves.",
+   "Thinly slice the cucumber into rounds and the radishes (tops and roots trimmed). Add both to the vinegar mixture and toss.",
+   "Peel the mango, cut the flesh from the pit, and dice.",
+   "Whisk the mayonnaise and chili-garlic sauce together until smooth.",
+   "Halve and pit the avocado, slice it thinly in the skin, then scoop out each half in one piece. Fill the halves with the spicy mayo.",
+   "Divide the rice, edamame, mango and cucumber-radish salad between two bowls. Top with smoked salmon and an avocado half, and serve with soy sauce on the side."
+  ],
+  "nut": {
+   "cal": "",
+   "pro": "",
+   "carb": "",
+   "fat": ""
+  },
+  "storage": "",
+  "ts": 1795294211067
+ },
+ {
   "id": "r1794695520000",
   "img": "img/tomato-basil-soup-with-broccoli-grilled-cheese.jpg",
   "ing": [

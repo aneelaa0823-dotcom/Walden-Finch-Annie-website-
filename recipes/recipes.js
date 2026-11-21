@@ -1,5 +1,97 @@
 var SEED=[
  {
+  "id": "r1795294548467",
+  "title": "Black Bean Quesadillas with Avocado Salsa",
+  "servings": 2,
+  "tags": [
+   "vegetarian",
+   "dinner"
+  ],
+  "img": "img/black-bean-quesadillas-avocado-salsa.jpg",
+  "ing": [
+   {
+    "q": 2,
+    "t": "tomatoes"
+   },
+   {
+    "q": 1,
+    "t": "jalapeño pepper"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch cilantro"
+   },
+   {
+    "q": 1,
+    "t": "avocado"
+   },
+   {
+    "q": 0.5,
+    "t": "medium red onion"
+   },
+   {
+    "q": null,
+    "t": "Juice of 1/2 lime"
+   },
+   {
+    "q": 5.5,
+    "t": "tsp extra virgin olive oil, divided"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp black pepper, divided"
+   },
+   {
+    "q": 1,
+    "t": "red bell pepper"
+   },
+   {
+    "q": 7.5,
+    "t": "oz canned black beans (1/2 can)"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp chili powder"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp ground cumin"
+   },
+   {
+    "q": 4,
+    "t": "oz cheddar cheese (about 1 cup grated)"
+   },
+   {
+    "q": 2,
+    "t": "large flour tortillas (burrito size)"
+   }
+  ],
+  "steps": [
+   "Wash and dry the tomatoes, jalapeño and cilantro.",
+   "Make the salsa: dice the tomatoes into a medium bowl. Seed and mince the jalapeño and add half. Dice the avocado and add it. Mince the cilantro leaves and add half. Dice the onion and add half. Save the rest of the jalapeño, cilantro and onion for the filling.",
+   "Add 1 tsp olive oil, the lime juice, 1/4 tsp salt and 1/8 tsp pepper to the salsa. Mix and set aside.",
+   "Heat a skillet over medium heat. Seed and dice the bell pepper.",
+   "Add 1 tbsp olive oil to the skillet with the remaining onion, jalapeño and bell pepper. Cook, stirring often, until softened, 3 to 4 minutes.",
+   "Drain and rinse the beans. Add them to the skillet with the remaining cilantro, the chili powder, cumin, 1/4 tsp salt and 1/8 tsp pepper. Cook until warmed through, 2 to 3 minutes, then move to a bowl.",
+   "Grate the cheddar. Wipe out the skillet and heat it over medium heat.",
+   "On one half of each tortilla, layer a quarter of the cheese, half the bean mixture and another quarter of the cheese. Fold closed.",
+   "Add 1/2 tbsp olive oil to the skillet. Cook both quesadillas, straight edges together, until golden and the cheese melts, 2 to 3 minutes per side.",
+   "Cut into wedges and serve with the salsa."
+  ],
+  "nut": {
+   "cal": "845",
+   "pro": "29",
+   "carb": "52",
+   "fat": "52"
+  },
+  "storage": "",
+  "ts": 1795294548467
+ },
+ {
   "id": "r1795294494839",
   "title": "Turkey \"Egg Roll in a Bowl\" with Spicy Mayo",
   "servings": 2,

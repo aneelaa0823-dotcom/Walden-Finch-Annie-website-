@@ -1,5 +1,105 @@
 var SEED=[
  {
+  "id": "r1795295001152",
+  "title": "\"Chicken Parmesan\" Meatballs & Arugula with Lemon-Shallot Dressing",
+  "servings": 2,
+  "tags": [
+   "high protein",
+   "dinner"
+  ],
+  "img": "img/chicken-parmesan-meatballs-arugula.jpg",
+  "ing": [
+   {
+    "q": 0.5,
+    "t": "lb ground chicken"
+   },
+   {
+    "q": 0.25,
+    "t": "cup panko bread crumbs"
+   },
+   {
+    "q": 1,
+    "t": "egg"
+   },
+   {
+    "q": 2,
+    "t": "oz Parmesan cheese"
+   },
+   {
+    "q": 2,
+    "t": "oz mozzarella cheese (1/4 of an 8 oz block)"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch flat-leaf parsley"
+   },
+   {
+    "q": 2,
+    "t": "tbsp extra virgin olive oil, divided"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp dried oregano"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.375,
+    "t": "tsp black pepper, divided"
+   },
+   {
+    "q": 8,
+    "t": "oz can tomato sauce"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp Italian seasoning"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp crushed red pepper"
+   },
+   {
+    "q": 0.5,
+    "t": "lemon"
+   },
+   {
+    "q": 0.5,
+    "t": "shallot"
+   },
+   {
+    "q": 2.5,
+    "t": "oz baby arugula (1/2 of a 5 oz pkg)"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 450°F. Wash and dry the parsley and lemon (and arugula if not pre-washed).",
+   "Mince the parsley leaves and finely grate the Parmesan. Divide both between two medium bowls.",
+   "Coarsely grate the mozzarella into one bowl, stir, and set aside for the topping.",
+   "To the other bowl add the chicken, panko, egg, 1 tsp oil, oregano, garlic powder, 1/4 tsp salt and 1/4 tsp pepper. Mix by hand and roll into tablespoon-size meatballs.",
+   "Heat an ovenproof skillet over medium-high heat. Meanwhile, stir the tomato sauce with the Italian seasoning, crushed red pepper and a pinch of salt.",
+   "Add 2 tsp oil to the skillet and brown the meatballs on all sides, 3 to 4 minutes. They won't be cooked through yet.",
+   "Pour the sauce over the meatballs and stir to coat. Top with the parsley-cheese mixture and bake until the cheese melts and the meatballs are cooked through, 7 to 8 minutes.",
+   "Meanwhile, zest and juice the lemon into the empty bowl. Mince the shallot and whisk it in with 1 tbsp oil, 1/8 tsp salt and 1/8 tsp pepper.",
+   "Toss the arugula with the dressing.",
+   "Divide the meatballs, sauce and salad between plates."
+  ],
+  "nut": {
+   "cal": "645",
+   "pro": "50",
+   "carb": "14",
+   "fat": "43"
+  },
+  "storage": "",
+  "ts": 1795295001152
+ },
+ {
   "id": "r1795294887944",
   "title": "Mediterranean Chicken Quinoa Bowl with Feta & Tzatziki",
   "servings": 2,

@@ -1,5 +1,85 @@
 var SEED=[
  {
+  "id": "r1795294605496",
+  "title": "Cheddar Crusted Chicken with Mashed Sweet Potatoes & Roasted Broccoli",
+  "servings": 2,
+  "tags": [
+   "high protein",
+   "dinner"
+  ],
+  "img": "img/cheddar-crusted-chicken-sweet-potatoes-broccoli.jpg",
+  "ing": [
+   {
+    "q": 0.75,
+    "t": "lb boneless skinless chicken breasts"
+   },
+   {
+    "q": 2,
+    "t": "oz cheddar cheese (1/4 of an 8 oz block)"
+   },
+   {
+    "q": 0.5,
+    "t": "cup panko bread crumbs"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp paprika"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp onion powder"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp black pepper, divided"
+   },
+   {
+    "q": 1,
+    "t": "tbsp mayonnaise"
+   },
+   {
+    "q": 4,
+    "t": "tsp extra virgin olive oil, divided"
+   },
+   {
+    "q": 1,
+    "t": "crown broccoli"
+   },
+   {
+    "q": 0.75,
+    "t": "lb sweet potato"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 425°F. Line a baking sheet with foil if you like, and coat it with 1 tsp oil.",
+   "Grate the cheddar into a medium bowl. Stir in the panko, paprika, garlic powder, onion powder, 1/4 tsp salt and 1/8 tsp pepper.",
+   "Pat the chicken dry and slice each breast in half horizontally into thin cutlets.",
+   "Spread mayo on both sides of the cutlets, then press them into the crumb coating. Put them on one side of the sheet and drizzle with 1 tsp oil.",
+   "Cut the broccoli into bite-size florets and chop the stems. Put them on the other side of the sheet, toss with 1 tsp oil, 1/8 tsp salt and a pinch of pepper, and spread out.",
+   "Bake, flipping the chicken and tossing the broccoli halfway, until the chicken is cooked through, 15 to 18 minutes.",
+   "Meanwhile, peel and dice the sweet potato. Cover with hot water in a medium saucepan and bring to a boil.",
+   "Lower to medium, cover, and simmer until tender, about 10 minutes.",
+   "Drain, return to the pan, and mash with 1 tsp oil, 1/8 tsp salt and a pinch of pepper until smooth.",
+   "Divide the sweet potatoes, chicken and broccoli between plates."
+  ],
+  "nut": {
+   "cal": "689",
+   "pro": "52",
+   "carb": "44",
+   "fat": "30"
+  },
+  "storage": "",
+  "ts": 1795294605496
+ },
+ {
   "id": "r1795294548467",
   "title": "Black Bean Quesadillas with Avocado Salsa",
   "servings": 2,

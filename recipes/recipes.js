@@ -1,5 +1,97 @@
 var SEED=[
  {
+  "id": "r1795294494839",
+  "title": "Turkey \"Egg Roll in a Bowl\" with Spicy Mayo",
+  "servings": 2,
+  "tags": [
+   "high protein",
+   "dinner",
+   "quick"
+  ],
+  "img": "img/turkey-egg-roll-in-a-bowl.jpg",
+  "ing": [
+   {
+    "q": 1,
+    "t": "tsp toasted sesame oil"
+   },
+   {
+    "q": 0.75,
+    "t": "lb ground turkey"
+   },
+   {
+    "q": 2,
+    "t": "garlic cloves"
+   },
+   {
+    "q": 0.5,
+    "t": "medium yellow onion"
+   },
+   {
+    "q": 1,
+    "t": "inch piece ginger root"
+   },
+   {
+    "q": 1,
+    "t": "medium carrot"
+   },
+   {
+    "q": 0.5,
+    "t": "medium head napa cabbage"
+   },
+   {
+    "q": 2,
+    "t": "tbsp tamari soy sauce"
+   },
+   {
+    "q": null,
+    "t": "Pinch of crushed red pepper"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch green onions (scallions)"
+   },
+   {
+    "q": 1,
+    "t": "egg"
+   },
+   {
+    "q": 2,
+    "t": "tbsp mayonnaise"
+   },
+   {
+    "q": 1,
+    "t": "tsp chili-garlic sauce"
+   },
+   {
+    "q": null,
+    "t": "Pinch of salt"
+   },
+   {
+    "q": 1,
+    "t": "tbsp sesame seeds"
+   }
+  ],
+  "steps": [
+   "Heat a large skillet over medium-high heat. Wash and dry the produce.",
+   "Add the sesame oil and swirl to coat. Add the turkey and cook, breaking it up, until nearly cooked through, 3 to 4 minutes.",
+   "Mince the garlic and dice the onion; add both to the skillet. Mince or grate the ginger, add it, and sauté 30 seconds.",
+   "Peel the carrot and julienne or coarsely grate it. Trim the cabbage root, halve it lengthwise and thinly shred it. Add both to the skillet.",
+   "Season with the tamari and crushed red pepper. Cook, stirring now and then, until the cabbage and carrot soften, 4 to 5 minutes.",
+   "Meanwhile, trim the green onions and slice them at an angle into 1/4-inch pieces.",
+   "Drain off any extra liquid and turn the heat to low. Make a well in the center, crack in the egg and scramble until set, 1 to 2 minutes, then stir it through.",
+   "Mix the mayonnaise, chili-garlic sauce and salt for the spicy mayo.",
+   "Divide between bowls and top with green onions, sesame seeds and spicy mayo."
+  ],
+  "nut": {
+   "cal": "",
+   "pro": "",
+   "carb": "",
+   "fat": ""
+  },
+  "storage": "",
+  "ts": 1795294494839
+ },
+ {
   "id": "r1795294211067",
   "title": "Smoked Salmon Bowl with Ginger Rice, Edamame, Mango & Avocado",
   "servings": 2,

@@ -1,5 +1,107 @@
 var SEED=[
  {
+  "id": "r1795295902740",
+  "title": "Sheet Pan Meatballs with Chickpeas, Cauliflower and Butternut",
+  "servings": 4,
+  "tags": [
+   "high protein",
+   "dinner",
+   "meal prep",
+   "freezer friendly"
+  ],
+  "img": "img/sheet-pan-meatballs-chickpeas-cauliflower-butternut.jpg",
+  "ing": [
+   {
+    "q": 3,
+    "t": "cups cauliflower florets"
+   },
+   {
+    "q": 3,
+    "t": "cups broccoli florets"
+   },
+   {
+    "q": 3,
+    "t": "cups cubed butternut squash"
+   },
+   {
+    "q": 15,
+    "t": "oz can chickpeas, rinsed and drained well"
+   },
+   {
+    "q": 2,
+    "t": "tbsp extra virgin olive oil"
+   },
+   {
+    "q": 2.5,
+    "t": "tsp kosher salt, divided"
+   },
+   {
+    "q": 1,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 1,
+    "t": "tsp onion powder"
+   },
+   {
+    "q": 2,
+    "t": "tsp cumin, divided"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp ground coriander"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp black pepper"
+   },
+   {
+    "q": 1,
+    "t": "large egg, lightly beaten"
+   },
+   {
+    "q": 4,
+    "t": "tbsp chopped dill, plus more to garnish"
+   },
+   {
+    "q": 4,
+    "t": "tbsp chopped parsley"
+   },
+   {
+    "q": 1,
+    "t": "tsp lemon zest"
+   },
+   {
+    "q": 0.25,
+    "t": "cup breadcrumbs, plain or gluten-free"
+   },
+   {
+    "q": 1,
+    "t": "lb lean ground bison, beef or lamb"
+   },
+   {
+    "q": null,
+    "t": "Tzatziki and harissa, optional for serving"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 425°F. Line a large sheet pan and a smaller sheet pan with parchment.",
+   "In a large bowl, toss the cauliflower, broccoli, squash and chickpeas with the olive oil, 1 1/2 tsp salt, garlic powder, onion powder, 1 tsp cumin, coriander and pepper.",
+   "Spread on the large pan and roast on the middle rack 30 to 35 minutes, stirring halfway, until tender and browned in spots.",
+   "Meanwhile, whisk the egg, 1 tsp salt, 1 tsp cumin, dill, parsley, lemon zest and 2 tbsp water in a bowl. Mix in the breadcrumbs, then the meat.",
+   "Shape into 16 meatballs (about 2 tbsp each) and put them on the smaller pan. Roast on the top rack 15 minutes, broiling for the last couple of minutes if you like.",
+   "Spoon the vegetables into bowls, top with 4 meatballs each, and serve with tzatziki and harissa if you like."
+  ],
+  "nut": {
+   "cal": "490",
+   "pro": "36",
+   "carb": "41.5",
+   "fat": "22.5"
+  },
+  "storage": "Fridge up to 4 days; meatballs freeze up to 3 months",
+  "ts": 1795295902740
+ },
+ {
   "id": "r1795295182867",
   "title": "Roasted Cauliflower & Black Bean Burrito Bowl with Cilantro Lime Rice",
   "servings": 2,

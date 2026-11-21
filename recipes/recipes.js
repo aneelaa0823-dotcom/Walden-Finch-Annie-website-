@@ -1,5 +1,94 @@
 var SEED=[
  {
+  "id": "r1795294887944",
+  "title": "Mediterranean Chicken Quinoa Bowl with Feta & Tzatziki",
+  "servings": 2,
+  "tags": [
+   "gluten free",
+   "high protein",
+   "dinner"
+  ],
+  "img": "img/mediterranean-chicken-quinoa-bowl.jpg",
+  "ing": [
+   {
+    "q": 0.5,
+    "t": "cup quinoa"
+   },
+   {
+    "q": 1,
+    "t": "cup water"
+   },
+   {
+    "q": 0.5,
+    "t": "lemon"
+   },
+   {
+    "q": 0.5,
+    "t": "pint grape tomatoes"
+   },
+   {
+    "q": 0.5,
+    "t": "English cucumber"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch flat-leaf parsley"
+   },
+   {
+    "q": 1,
+    "t": "garlic clove"
+   },
+   {
+    "q": 0.5,
+    "t": "lb boneless skinless chicken breasts"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt, divided"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp black pepper, divided"
+   },
+   {
+    "q": 0.5,
+    "t": "tbsp extra virgin olive oil"
+   },
+   {
+    "q": 0.5,
+    "t": "cup plain Greek yogurt"
+   },
+   {
+    "q": 0.25,
+    "t": "cup pitted Kalamata olives"
+   },
+   {
+    "q": 2,
+    "t": "oz crumbled feta cheese"
+   }
+  ],
+  "steps": [
+   "Bring the quinoa and water to a boil in a small saucepan. Meanwhile, wash and dry the produce.",
+   "Juice the lemon into a small bowl and pour half into the quinoa; save the rest for the tzatziki.",
+   "Once boiling, cover and simmer 15 minutes. Take off the heat and let stand, covered, 5 minutes.",
+   "Halve the tomatoes into a large bowl. Finely dice a third of the cucumber and add it to the reserved lemon juice. Thinly slice the rest on an angle and add to the tomatoes.",
+   "Roughly chop the parsley leaves and add to the tomatoes. Mince the garlic and add it to the lemon-cucumber bowl.",
+   "Heat a grill pan or skillet over medium heat. Slice the chicken in half horizontally into thin fillets, season with 1/4 tsp salt and 1/4 tsp pepper, and rub with the oil.",
+   "Cook the chicken until golden and cooked through, 3 to 4 minutes per side.",
+   "Stir the yogurt, 1/4 tsp salt and 1/4 tsp pepper into the lemon-cucumber bowl for the tzatziki.",
+   "Add the olives, feta and fluffed quinoa to the vegetables. Slice the chicken into strips, add it, and toss.",
+   "Serve in bowls with the tzatziki spooned over the top."
+  ],
+  "nut": {
+   "cal": "517",
+   "pro": "44",
+   "carb": "35",
+   "fat": "20"
+  },
+  "storage": "",
+  "ts": 1795294887944
+ },
+ {
   "id": "r1795294666183",
   "title": "Shrimp Tostadas with Guacamole & Pico de Gallo",
   "servings": 2,

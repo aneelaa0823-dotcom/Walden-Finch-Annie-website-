@@ -1,5 +1,106 @@
 var SEED=[
  {
+  "id": "r1795295182867",
+  "title": "Roasted Cauliflower & Black Bean Burrito Bowl with Cilantro Lime Rice",
+  "servings": 2,
+  "tags": [
+   "vegetarian",
+   "gluten free",
+   "dairy free",
+   "dinner"
+  ],
+  "img": "img/cauliflower-black-bean-burrito-bowl.jpg",
+  "ing": [
+   {
+    "q": 0.5,
+    "t": "cup basmati rice"
+   },
+   {
+    "q": 1,
+    "t": "cup vegetable or chicken broth"
+   },
+   {
+    "q": 0.5,
+    "t": "medium head cauliflower"
+   },
+   {
+    "q": 1.5,
+    "t": "tsp chili powder"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp ground cumin"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp garlic powder"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp onion powder"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp cayenne pepper"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt"
+   },
+   {
+    "q": 2,
+    "t": "tbsp extra virgin olive oil, divided"
+   },
+   {
+    "q": 0.5,
+    "t": "medium yellow onion"
+   },
+   {
+    "q": 7.5,
+    "t": "oz canned black beans (1/2 can)"
+   },
+   {
+    "q": 0.5,
+    "t": "cup frozen corn"
+   },
+   {
+    "q": 1,
+    "t": "tomato"
+   },
+   {
+    "q": 1,
+    "t": "avocado"
+   },
+   {
+    "q": 0.5,
+    "t": "small bunch cilantro"
+   },
+   {
+    "q": 1,
+    "t": "lime"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 425°F. Rinse and drain the rice, then bring it to a boil with the broth in a small saucepan.",
+   "Once boiling, stir, cover, and turn to low. Cook until the liquid is absorbed, 15 to 18 minutes, then let stand covered 5 minutes.",
+   "Cut the cauliflower into bite-size florets. Mix the chili powder, cumin, garlic powder, onion powder, cayenne and salt in a small bowl.",
+   "Toss the cauliflower on a sheet pan with 1 tbsp oil and half the spice mix. Roast 20 minutes, flipping halfway.",
+   "Dice the onion. Heat 1 tbsp oil in a large skillet over medium heat and cook the onion until soft, 3 to 4 minutes.",
+   "Drain and rinse the beans. Add them to the skillet with the corn and the rest of the spice mix. Cook until the corn is soft, 3 to 4 minutes.",
+   "Dice the tomato. Halve, pit and slice the avocado. Mince the cilantro leaves.",
+   "Stir half the cilantro and the juice of half the lime into the cooked rice. Cut the other lime half into wedges.",
+   "Divide the rice between bowls and top with the cauliflower, beans and corn, tomato, avocado, remaining cilantro and lime wedges."
+  ],
+  "nut": {
+   "cal": "669",
+   "pro": "19",
+   "carb": "67",
+   "fat": "31"
+  },
+  "storage": "",
+  "ts": 1795295182867
+ },
+ {
   "id": "r1795295001152",
   "title": "\"Chicken Parmesan\" Meatballs & Arugula with Lemon-Shallot Dressing",
   "servings": 2,

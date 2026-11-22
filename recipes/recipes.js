@@ -1,5 +1,120 @@
 var SEED=[
  {
+  "id": "r1795369704144",
+  "title": "Tofu Shawarma Salad",
+  "servings": 3,
+  "tags": [
+   "vegetarian",
+   "lunch"
+  ],
+  "img": "img/tofu-shawarma-salad.jpg",
+  "ing": [
+   {
+    "q": 14,
+    "t": "oz extra-firm tofu, pressed, drained and cut into 1/2-inch cubes"
+   },
+   {
+    "q": 3,
+    "t": "tbsp neutral oil or extra virgin olive oil"
+   },
+   {
+    "q": 1,
+    "t": "tbsp cornstarch"
+   },
+   {
+    "q": 1,
+    "t": "tsp paprika"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp cumin"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp turmeric"
+   },
+   {
+    "q": 0.5,
+    "t": "tsp salt"
+   },
+   {
+    "q": 0.25,
+    "t": "tsp cayenne pepper"
+   },
+   {
+    "q": null,
+    "t": "Black pepper (8 to 10 grinds)"
+   },
+   {
+    "q": 1,
+    "t": "small garlic clove, pressed (dressing)"
+   },
+   {
+    "q": 0.25,
+    "t": "cup red wine vinegar (dressing)"
+   },
+   {
+    "q": 2,
+    "t": "tsp honey (dressing)"
+   },
+   {
+    "q": 1,
+    "t": "tbsp plain yogurt (dressing)"
+   },
+   {
+    "q": 0.33,
+    "t": "cup extra virgin olive oil (dressing)"
+   },
+   {
+    "q": 2,
+    "t": "tsp za'atar (dressing)"
+   },
+   {
+    "q": 10,
+    "t": "oz greens, such as gem or Bibb lettuce or kale"
+   },
+   {
+    "q": 4,
+    "t": "radishes, sliced very thin"
+   },
+   {
+    "q": 2,
+    "t": "small cucumbers, sliced very thin"
+   },
+   {
+    "q": 3,
+    "t": "tbsp minced red onion (or pickled onions)"
+   },
+   {
+    "q": 0.33,
+    "t": "cup fresh dill"
+   },
+   {
+    "q": 0.67,
+    "t": "cup crumbled feta (3 to 4 oz)"
+   },
+   {
+    "q": null,
+    "t": "Pita chips, crumbled, for serving"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 425°F and line a sheet pan with parchment.",
+   "Gently toss the tofu with the oil, cornstarch, paprika, cumin, turmeric, salt, cayenne and black pepper. Spread on the pan and bake until golden with crispy corners, about 20 minutes.",
+   "Meanwhile, shake or whisk the garlic, red wine vinegar, honey, yogurt, olive oil and za'atar in a small jar for the dressing.",
+   "In a large bowl, toss the greens, radishes, cucumbers, red onion, dill and feta.",
+   "Add the tofu and dressing, toss, and serve topped with crumbled pita chips."
+  ],
+  "nut": {
+   "cal": "",
+   "pro": "",
+   "carb": "",
+   "fat": ""
+  },
+  "storage": "",
+  "ts": 1795369704144
+ },
+ {
   "id": "r1795295902740",
   "title": "Sheet Pan Meatballs with Chickpeas, Cauliflower and Butternut",
   "servings": 4,
